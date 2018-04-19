@@ -1,0 +1,58 @@
+body{
+	background: skyblue;
+	width: 500px;
+	height: 300px;
+	padding-left: 130px;
+	div{
+		padding-left: 25px;
+		h1{
+			color: white;
+		}
+		label{
+			color: white;
+		}
+		button{
+			float: center;
+			border-radius: 5px;
+		}
+	}
+	table{
+	width: 570px;
+	height: auto;
+	padding: 10px;
+	margin: 10px;
+    text-align: left;
+	font-size: 12pt;
+	border-radius: 5px;
+		th{
+   		vertical-align: top;
+   		text-align: center;
+   		border: 1px solid #D4D7D7;
+   		padding-left: 5px;
+   		background: blue;
+   		font-size: 14px;   
+   		color: white;
+		}
+		td{
+			color: black;
+		}
+		tr{
+			
+   			text-align: center;
+   			border: 1px solid #D4D7D7;
+   			padding-left: 5px;
+   			background: white;
+   			font-size: 14px;   
+   			color: white;
+   			height: 10px;
+		}
+	}
+	footer{
+		label{
+			float: right;
+		}
+		input{
+			float: right;
+		}
+	}
+}	
